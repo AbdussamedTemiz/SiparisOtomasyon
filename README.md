@@ -7,7 +7,7 @@
 
    * 212802088 MERT FAZLI SAYLAK (https://github.com/merttfazli)
 
-   * 202802068 MUHAMMED YUSUF BOZKURT 
+   * 202802068 MUHAMMED YUSUF BOZKURT (https://github.com/MuhammedYusufBozkurt)
 
 ---  PROJE BİLGİLERİ  ---
 
